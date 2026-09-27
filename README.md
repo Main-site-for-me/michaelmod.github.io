@@ -1,4 +1,4 @@
-scratch-gui modified for use in [TurboWarp](https://turbowarp.org/) then modified for use in [PenguinMod](https://penguinmod.github.io/penguinmod.github.io/) and now [Dinosaurmod](https://dinosaurmod.github.io) 😀
+scratch-gui modified for use in [TurboWarp](https://turbowarp.org/) then modified for use in [PenguinMod](https://penguinmod.github.io/penguinmod.com/) and now [Dinosaurmod](https://dinosaurmod.github.io) and now [Michaelmod](https://michaelmod.github.io)😀
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/DinosaurMod/dinosaurmod.github.io/)
 ## Setup
 
